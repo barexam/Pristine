@@ -26,7 +26,6 @@ bindkey "^F" history-incremental-search-forward
 
 alias vim="/usr/bin/vim"
 alias vi="/usr/bin/vim"
-alias dev="cd /Users/daniel/Library/Mobile\ Documents/com~apple~CloudDocs/Development"
 alias bt="wget http://cachefly.cachefly.net/400mb.test > /dev/null"
 alias d="cd /Users/daniel/Desktop"
 alias www="cd /Users/daniel/Development/htdocs/"
