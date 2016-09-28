@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# Install zsh
+# Install software
 
 apt install zsh
+apt install git
 
 # Copy your zprezto directory to home
 
