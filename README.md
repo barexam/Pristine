@@ -12,6 +12,13 @@ What Pristine does is summarized below:
 
 So I basically end up with all my Vim Snippets, my Plugins, my Zsh Aliases, my proper PS1 prompt, etc.---all in one <code>git clone</code> and script execution.
 
+## Features
+
+Here are some of the features I have incorporated into the various customizations (still being updated).
+
+- <code>ESC</code> in Vim is remapped to "**jk**".
+- Zsh is configured for Vim mode, meaning I can edit the command like using "**jk**" and then Vim commands. So epic. 
+
 ## Usage
 
 1. Download the repo to your home directory on the new box.
@@ -20,8 +27,3 @@ So I basically end up with all my Vim Snippets, my Plugins, my Zsh Aliases, my p
 Once you restart your shell you should have clean shell and edtior configurations.
 
 Enjoy!
-
-## Features
-
-- <code>ESC</code> in Vim is remapped to "**jk**".
-- Zsh is configured for Vim mode, meaning I can edit the command like using "**jk**" and then Vim commands. So epic. 
