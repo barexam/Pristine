@@ -21,6 +21,7 @@ Once you restart your shell you should have clean shell and edtior configuration
 
 Enjoy!
 
-### Notes
+## Features
 
-1. One thing to keep in mind is that I have a few configs that might be strange for some. I have my Vim <code><ESC></code> mapped to **jk**, and I have Vim command mode enabled in Zsh, meaning when I'm on the command line I can just **jk** and move around the current command as if I'm in Vim. 
+- <code>ESC</code> in Vim is remapped to "**jk**".
+- Zsh is configured for Vim mode, meaning I can edit the command like using "**jk**" and then Vim commands. So epic. 
